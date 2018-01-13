@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AutoRegion29</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    //Наименования разделов Navigation_drawer
+    <string name="AutoChemistry">Автохимия</string>
+    <string name="AutoTools">Автоинструмент</string>
+    <string name="Gasoline">Цены на бензин</string>
+    <string name="Official_dealers">Официальные дилеры</string>
+    <string name="Tire_Wheels">Шины и Диски</string>
+    <string name="Sound_Alarm">Сигнализации и Медиа</string>
+    <string name="Shares">Акции</string>
+
+    //Строки для заполнения CardView по умолчанию
+    <string name="title_st">Наименование</string>
+    <string name="view_st">Вид заправки</string>
+    <string name="price_st">Цена</string>
+    <string name="city">Город</string>
+    <string name="address">Адрес</string>
+    <string name="site">Сайт</string>
+    <string name="tel_number">Телефон</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="Op">Отдел продаж</string>
+    <string name="Sr">Сервис</string>
+    <string name="AboutAddress">Адреса магазинов:</string>
+    <string name="title_app_rus">Авто Регион 29</string>
+    <string name="avtoregion29_ru">avtoregion29.ru</string>
+    <string name="communicate">Контакты</string>
+    <string name="link">Подробнее</string>
+    <string name="Contact">Контакты</string>
+    <string name="regionauto29_gmail_com">regionauto29@gmail.com</string>
+    <string name="news">Новости</string>
+    <string name="newstext">NewsText</string>
+    <string name="MoreInfo">Подробнее</string>
+    <string name="website">website</string>
+    <string name="title">Название</string>
+    <string name="viewStText">Вид заправки</string>
+
+
+</resources>

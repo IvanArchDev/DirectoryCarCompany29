@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_new"
+            android:title="@string/news"/>
+        <item
+            android:id="@+id/nav_autochemistry"
+            android:icon="@drawable/ic_format_color_fill_black_24dp"
+            android:title="@string/AutoChemistry" />
+        <item
+            android:id="@+id/nav_autotools"
+            android:icon="@drawable/ic_build_black_24dp"
+            android:title="@string/AutoTools" />
+        <item
+            android:id="@+id/nav_sound_alarm"
+            android:icon="@drawable/ic_volume_up"
+            android:title="@string/Sound_Alarm" />
+        <item
+            android:id="@+id/nav_gasoline"
+            android:icon="@drawable/ic_gas_station"
+            android:title="@string/Gasoline" />
+        <!--<item-->
+        <!--android:id="@+id/nav_autodealers"-->
+        <!--android:icon="@drawable/ic_menu_manage"-->
+        <!--android:title="@string/Official_dealers" />-->
+        <item
+            android:id="@+id/nav_wheels"
+            android:icon="@drawable/ic_adjust"
+            android:title="@string/Tire_Wheels" />
+        <!--<item-->
+            <!--android:id="@+id/nav_shares"-->
+            <!--android:icon="@drawable/ic_shopping"-->
+            <!--android:title="@string/Shares" />-->
+        <!--<item-->
+            <!--android:id="@+id/communicate"-->
+            <!--android:title="@string/communicate"-->
+            <!--android:icon="@drawable/ic_phonelink_ring_black_24dp"/>-->
+
+
+    </group>
+
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>
